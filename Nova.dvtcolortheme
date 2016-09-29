@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Nova Colors / base16-eighties inspired  Theme v1.0
+#
+# https://github.com/victorhugo/nova-base16-eighties-theme
+#
+#
+# Code licensed under the MIT license
+#
+# @author Victor Hugo Perez <victor@chilaquil.mx>
+-->
+
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DVTConsoleDebuggerInputTextColor</key>
+	<string>0.972549 0.972549 0.94902 1</string>
+	<key>DVTConsoleDebuggerInputTextFont</key>
+	<string>SourceCodePro-Light - 13.0</string>
+	<key>DVTConsoleDebuggerOutputTextColor</key>
+	<string>0.972549 0.972549 0.94902 1</string>
+	<key>DVTConsoleDebuggerOutputTextFont</key>
+	<string>SourceCodePro-Light - 13.0</string>
+	<key>DVTConsoleDebuggerPromptTextColor</key>
+	<string>0.313725 0.980392 0.482353 1</string>
+	<key>DVTConsoleDebuggerPromptTextFont</key>
+	<string>SourceCodePro-Light - 13.0</string>
+	<key>DVTConsoleExectuableInputTextColor</key>
+	<string>0.972549 0.972549 0.94902 1</string>
+	<key>DVTConsoleExectuableInputTextFont</key>
+	<string>SourceCodePro-Light - 13.0</string>
+	<key>DVTConsoleExectuableOutputTextColor</key>
+	<string>0.972549 0.972549 0.94902 1</string>
+	<key>DVTConsoleExectuableOutputTextFont</key>
+	<string>SourceCodePro-Light - 13.0</string>
+	<key>DVTConsoleTextBackgroundColor</key>
+	<string>0.156863 0.164706 0.211765 1</string>
+	<key>DVTConsoleTextInsertionPointColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTConsoleTextSelectionColor</key>
+	<string>0.266667 0.278431 0.352941 1</string>
+	<key>DVTDebuggerInstructionPointerColor</key>
+	<string>0.545098 0.913725 0.992157 1</string>
+	<key>DVTSourceTextBackground</key>
+	<string>0.117658 0.122153 0.159778 1</string>
+	<key>DVTSourceTextBlockDimBackgroundColor</key>
+	<string>0.5 0.5 0.5 1</string>
+	<key>DVTSourceTextInsertionPointColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTSourceTextInvisiblesColor</key>
+	<string>0.496379 0.5 0.5 1</string>
+	<key>DVTSourceTextSelectionColor</key>
+	<string>0.266667 0.278431 0.352941 1</string>
+	<key>DVTSourceTextSyntaxColors</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>0.94902 0.73725 0.50588 1.00000<string>
+		<key>xcode.syntax.character</key>
+		<string>0.45490 0.72549 0.76471 1.00000<string>
+		<key>xcode.syntax.comment</key>
+		<string>0.49412 0.56863 0.61961 1.00000<string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>0.49412 0.56863 0.61961 1.00000<string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>0.74510 0.81177 0.85490 1.00000<string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>0.46275 0.64706 0.89412 1.00000<string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>0.56078 0.52941 0.87843 1.00000<string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>0.94902 0.73725 0.50588 1.00000<string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>0.94902 0.73725 0.50588 1.00000<string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>0.56078 0.52941 0.87843 1.00000<string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>0.56078 0.52941 0.87843 1.00000<string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>0.83922 0.84314 0.52157 1.00000<string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>0.83922 0.84314 0.52157 1.00000<string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>0.61961 0.78824 0.52549 1.00000<string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>0.61961 0.78824 0.52549 1.00000<string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>0.46275 0.64706 0.89412 1.00000<string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>0.46275 0.64706 0.89412 1.00000<string>
+		<key>xcode.syntax.keyword</key>
+		<string>0.80392 0.50980 0.73725 1.00000<string>
+		<key>xcode.syntax.number</key>
+		<string>0.45490 0.72549 0.76471 1.00000<string>
+		<key>xcode.syntax.plain</key>
+		<string>0.73725 0.80392 0.84706 1.00000<string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>0.96078 0.95686 0.96078 1.00000<string>
+		<key>xcode.syntax.string</key>
+		<string>0.61961 0.78039 0.53333 1.00000<string>
+		<key>xcode.syntax.url</key>
+		<string>0.47059 0.65098 0.88235 1.00000<string>
+	</dict>
+	<key>DVTSourceTextSyntaxFonts</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>SourceCodePro-Light - 13.0</string>
+		<key>xcode.syntax.character</key>
+		<string>SourceCodePro-Light - 13.0</string>
+		<key>xcode.syntax.comment</key>
+		<string>SourceCodePro-Light - 13.0</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>SourceCodePro-Light - 13.0</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>SourceCodePro-Light - 13.0</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>SourceCodePro-Light - 13.0</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>SourceCodePro-Light - 13.0</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>SourceCodePro-Light - 13.0</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>SourceCodePro-Light - 13.0</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>SourceCodePro-Light - 13.0</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>SourceCodePro-Light - 13.0</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>SourceCodePro-Light - 13.0</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>SourceCodePro-Light - 13.0</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>SourceCodePro-Light - 13.0</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>SourceCodePro-Light - 13.0</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>SourceCodePro-Light - 13.0</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>SourceCodePro-Light - 13.0</string>
+		<key>xcode.syntax.keyword</key>
+		<string>SourceCodePro-Light - 13.0</string>
+		<key>xcode.syntax.number</key>
+		<string>SourceCodePro-Light - 13.0</string>
+		<key>xcode.syntax.plain</key>
+		<string>SourceCodePro-Light - 13.0</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>SourceCodePro-Light - 13.0</string>
+		<key>xcode.syntax.string</key>
+		<string>SourceCodePro-Light - 13.0</string>
+		<key>xcode.syntax.url</key>
+		<string>SourceCodePro-Light - 13.0</string>
+	</dict>
+</dict>
+</plist>

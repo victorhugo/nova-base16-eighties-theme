@@ -10,4 +10,23 @@ Feel free to contribute to improve this "Pastel" style that let your eyes don't 
 
 For a better experience I recommend using [SourceCode Pro Ligth font](https://github.com/adobe-fonts/source-code-pro).
 
+
+## Compatibility
+
+Should work with versions of Xcode 7 or newer.
+
+## Installation
+
+    cd ~/Library/Developer/Xcode/UserData/FontAndColorThemes
+    git clone https://github.com/victorhugo/nova-base16-eighties-theme.git NovaEighties
+    ln -s NovaEighties/* ./
+
+Close and open Xcode for see the theme.
+
+## Update
+
+    cd ~/Library/Developer/Xcode/UserData/FontAndColorThemes/NovaEighties
+    git pull
+    
+
 Happy coding!
